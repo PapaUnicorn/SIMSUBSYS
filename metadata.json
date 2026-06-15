@@ -1,0 +1,6 @@
+{
+  "name": "GPS SIM Subscription Management System",
+  "description": "Centralized platform to manage GPS SIM subscriptions, automate WhatsApp reminders, track payments, suspend delinquent accounts, and generate financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
